@@ -2,7 +2,7 @@
 
 🛠️ I’m currently working as a scientific code developer in the field of aerodynamics, CFD, thermal design, and analyses.
 
-🔭 I’m currently doing my PhD about thrust and flow mechanism of pitching, flapping hydrofoils.
+🔭 I’m currently doing my PhD.
 
 📫 How to reach me:   
 
